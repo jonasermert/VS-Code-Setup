@@ -1,0 +1,39 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "'STACKr Code', 'Fira Code', Consolas",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "explorer.confirmDelete": false,
+  "git.enableSmartCommit": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "expand",
+  "editor.minimap.size": "fit",
+  "git.confirmSync": false,
+  "editor.formatOnSave": true,
+  "bracket-pair-colorizer-2.colors": ["#9FBF45", "#429ED6", "#CC2F7B"],
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.colorTheme": "codeSTACKr Theme",
+  "workbench.iconTheme": "vscode-icons",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "debug.toolBarLocation": "docked",
+  "explorer.confirmDragAndDrop": false,
+  "emojisense.languages": {
+    "markdown": true,
+    "plaintext": {
+      "markupCompletionsEnabled": false,
+      "emojiDecoratorsEnabled": false
+    },
+    "scminput": true,
+    "git-commit": true,
+    "javascript": true,
+    "javascriptreact": true,
+    "html": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
